@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "exported_at": "2026-05-23T17:13:25.528Z",
+  "source": {
+    "wardrobe_root": "/Users/varunj/Workspace/Wardrobe",
+    "catalog_csv": "/Users/varunj/Workspace/Wardrobe/working/wardrobe_catalog.csv",
+    "catalog_csv_mtime": "2026-05-21 18:18:29",
+    "page_generated_at": "2026-05-22 14:05:50",
+    "row_count": 52
+  },
+  "editable_fields": [
+    "Category",
+    "Sub-Category",
+    "Brand",
+    "Color (Primary)",
+    "Color (Secondary)",
+    "Pattern",
+    "Fit",
+    "Rise",
+    "Length",
+    "Silhouette",
+    "Neckline",
+    "Drape Notes",
+    "Fit Source",
+    "Fabric",
+    "Weight",
+    "Stretch",
+    "Breathability",
+    "Surface Texture",
+    "Formality (1-5)",
+    "Vibe Tags",
+    "Occasion Tags",
+    "Layering Position",
+    "Season",
+    "Max Comfortable Temp (C)",
+    "Condition",
+    "Wear Frequency Estimate",
+    "Color Temperature",
+    "Skin Tone Interaction",
+    "Skin Tone Caution Flag",
+    "Contrast Level",
+    "Versatility Score (1-5)",
+    "Role in Outfit",
+    "Volume/Visual Weight",
+    "Shoe Type",
+    "Sole Profile",
+    "Aesthetic Range",
+    "Top Compatibility Note",
+    "Client notes",
+    "Status"
+  ],
+  "edits": [
+    {
+      "item_id": "BOT-05",
+      "changes": {
+        "Drape Notes": {
+          "old_value": "<FILL FROM OTHER SOURCES>",
+          "new_value": " Gray distressed denim shorts\nSits at the natural waist with a relaxed, slightly loose fit through the seat and thighs. The hem falls just above the knee with a raw, frayed cut. Fabric is stiff denim with minimal drape — holds its shape rather than falling. The distressing adds visual texture and bulk to the front panels. Waistband appears flat and structured."
+        }
+      }
+    },
+    {
+      "item_id": "BOT-06",
+      "changes": {
+        "Drape Notes": {
+          "old_value": "<FILL FROM OTHER SOURCES>",
+          "new_value": "Beige chino shorts\nClean, mid-rise fit with a structured waistband. Fabric has a linen-like texture that drapes softly but retains some body. Sits slightly loose through the seat and thighs with a hem falling just above the knee. Minimal creasing at the rise suggests a good seat fit. Overall silhouette is relaxed without being baggy."
+        }
+      }
+    },
+    {
+      "item_id": "BOT-07",
+      "changes": {
+        "Drape Notes": {
+          "old_value": "<FILL FROM OTHER SOURCES>",
+          "new_value": "mid-rise, relaxed through the thigh, hem just above the knee. Slightly more volume through the seat and thigh compared to Image 2. The rolled hem adds a deliberate cuff detail. Fabric has a soft cotton drape with moderate structure. Sits slightly fuller in the thigh, suggesting these may run a touch larger."
+        }
+      }
+    },
+    {
+      "item_id": "BOT-01",
+      "changes": {
+        "Drape Notes": {
+          "old_value": "<FILL FROM OTHER SOURCES>",
+          "new_value": "Double-forward pleats at the waist create significant volume through the hip and thigh before tapering slightly toward the ankle. Fabric is a smooth suiting-weight material with excellent drape — falls cleanly and fluidly from the waist. Breaks lightly at the shoe with a full-length hem. The black belt anchors the high waist well. The silhouette reads structured and intentional — classic Italian/European trouser territory."
+        }
+      }
+    },
+    {
+      "item_id": "TOP-03",
+      "changes": {
+        "Drape Notes": {
+          "old_value": "<FILL FROM OTHER SOURCES>",
+          "new_value": "Short-sleeve crochet/chunky knit with a crew neck and a white tee underneath. The knit fabric has an open, airy weave that gives it a relaxed, slightly boxy drape — it doesn't cling but follows the torso loosely. Sleeves are slightly puffed at the shoulder and taper to the elbow, adding a subtle structured detail. Hem sits at the natural waist. The layering over the white tee peeks at the collar and hem, adding depth.\n"
+        }
+      }
+    },
+    {
+      "item_id": "TOP-04",
+      "changes": {
+        "Drape Notes": {
+          "old_value": "<FILL FROM OTHER SOURCES>",
+          "new_value": "Classic boxy, drop-shoulder cut with significant width through the chest and torso. Fabric is a washed cotton that drapes softly and loosely — no tension anywhere. The hem falls past the natural waist and sits freely over the trouser waistband, creating a blouson effect. Drop shoulders push the sleeve seam well down the upper arm, amplifying the relaxed, streetwear silhouette. The acid-wash gives the fabric a lived-in, uneven texture rather than a flat solid."
+        }
+      }
+    },
+    {
+      "item_id": "TOP-08",
+      "changes": {
+        "Drape Notes": {
+          "old_value": "<FILL FROM OTHER SOURCES>",
+          "new_value": "Long-sleeve button-down with a soft collar, worn with sleeves rolled to mid-forearm. Linen fabric drapes naturally with characteristic relaxed creasing — no stiffness, falls away from the body without clinging. The shirt is left untucked, hem sitting at mid-hip. Fit is slightly loose through the chest and shoulders — not oversized, but not tailored either. The roll on the sleeves adds a casual, effortless detail and breaks up the solid fabric well."
+        }
+      }
+    }
+  ]
+}

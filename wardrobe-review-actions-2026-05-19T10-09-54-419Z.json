@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "exported_at": "2026-05-19T10:09:54.419Z",
+  "source": {
+    "schema_version": 1,
+    "storage_key": "wardrobe-review-actions.v1",
+    "wardrobe_root": "/Users/varunj/Workspace/Wardrobe",
+    "page_generated_at": "2026-05-19 15:37:18",
+    "catalog_csv_mtime": "2026-05-19 15:37:08",
+    "reference_map_mtime": "2026-05-19 15:37:08",
+    "catalog_items": 33,
+    "reference_rows": 122
+  },
+  "invalid_items": [
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-12",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.16.31 AM.jpeg"
+      ],
+      "catalog_refs": [
+        "Img 40"
+      ],
+      "marked_at": "2026-05-19T10:09:48.307Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-17",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.13.20 AM.jpeg"
+      ],
+      "catalog_refs": [
+        "Img 49"
+      ],
+      "marked_at": "2026-05-19T10:08:16.411Z",
+      "note": ""
+    }
+  ],
+  "detached_images": []
+}

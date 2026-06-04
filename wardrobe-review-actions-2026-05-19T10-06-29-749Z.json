@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "exported_at": "2026-05-19T10:06:29.749Z",
+  "source": {
+    "schema_version": 1,
+    "storage_key": "wardrobe-review-actions.v1",
+    "wardrobe_root": "/Users/varunj/Workspace/Wardrobe",
+    "page_generated_at": "2026-05-19 15:32:15",
+    "catalog_csv_mtime": "2026-05-19 00:45:10",
+    "reference_map_mtime": "2026-05-19 00:45:10",
+    "catalog_items": 39,
+    "reference_rows": 122
+  },
+  "invalid_items": [
+    {
+      "type": "invalidate_item",
+      "item_id": "BOT-03",
+      "filenames": [
+        "WhatsApp Image 2026-05-17 at 8.44.50 PM (4).jpeg"
+      ],
+      "catalog_refs": [
+        "Img 10"
+      ],
+      "marked_at": "2026-05-19T10:03:18.001Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "BOT-14",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.13.23 AM (1).jpeg",
+        "WhatsApp Image 2026-05-18 at 12.13.23 AM.jpeg",
+        "WhatsApp Image 2026-05-18 at 12.13.22 AM (2).jpeg",
+        "WhatsApp Image 2026-05-18 at 12.13.22 AM.jpeg"
+      ],
+      "catalog_refs": [
+        "Img 66",
+        "Img 67",
+        "Img 64",
+        "Img 65"
+      ],
+      "marked_at": "2026-05-19T10:04:05.908Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "BOT-15",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.15.19 AM.jpeg",
+        "WhatsApp Image 2026-05-18 at 12.16.15 AM.jpeg"
+      ],
+      "catalog_refs": [
+        "Img 80",
+        "Img 81"
+      ],
+      "marked_at": "2026-05-19T10:04:00.150Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-06",
+      "filenames": [
+        "WhatsApp Image 2026-05-17 at 8.44.50 PM (1).jpeg"
+      ],
+      "catalog_refs": [
+        "Img 7"
+      ],
+      "marked_at": "2026-05-18T19:13:25.407Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-10",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.16.21 AM.jpeg"
+      ],
+      "catalog_refs": [
+        "Img 35"
+      ],
+      "marked_at": "2026-05-18T19:14:04.470Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-14",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.16.34 AM.jpeg",
+        "WhatsApp Image 2026-05-18 at 12.16.35 AM.jpeg",
+        "WhatsApp Image 2026-05-18 at 12.16.36 AM.jpeg",
+        "WhatsApp Image 2026-05-18 at 12.16.37 AM.jpeg",
+        "WhatsApp Image 2026-05-18 at 12.16.38 AM.jpeg"
+      ],
+      "catalog_refs": [
+        "Img 42",
+        "Img 43",
+        "Img 44",
+        "Img 45",
+        "Img 46"
+      ],
+      "marked_at": "2026-05-19T10:05:02.750Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-15",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.16.40 AM.jpeg",
+        "WhatsApp Image 2026-05-18 at 12.16.41 AM.jpeg",
+        "WhatsApp Image 2026-05-18 at 12.16.42 AM.jpeg"
+      ],
+      "catalog_refs": [
+        "Img 47",
+        "Img 117",
+        "Img 118"
+      ],
+      "marked_at": "2026-05-19T10:05:35.850Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-16",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.13.19 AM.jpeg",
+        "WhatsApp Image 2026-05-18 at 12.13.22 AM (2).jpeg",
+        "WhatsApp Image 2026-05-18 at 12.13.22 AM.jpeg",
+        "WhatsApp Image 2026-05-18 at 12.15.15 AM.jpeg",
+        "WhatsApp Image 2026-05-18 at 12.15.16 AM.jpeg"
+      ],
+      "catalog_refs": [
+        "Img 48",
+        "Img 64",
+        "Img 65",
+        "Img 77",
+        "Img 78"
+      ],
+      "marked_at": "2026-05-19T10:06:00.766Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-18",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.13.18 AM (1).jpeg"
+      ],
+      "catalog_refs": [
+        "Img 55"
+      ],
+      "marked_at": "2026-05-18T19:08:49.022Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-19",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.13.22 AM (1).jpeg"
+      ],
+      "catalog_refs": [
+        "Img 63"
+      ],
+      "marked_at": "2026-05-18T19:11:04.957Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-23",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.16.26 AM (2).jpeg"
+      ],
+      "catalog_refs": [
+        "Img 92"
+      ],
+      "marked_at": "2026-05-18T19:12:46.920Z",
+      "note": ""
+    }
+  ],
+  "detached_images": [
+    {
+      "type": "detach_image",
+      "item_id": "BOT-11",
+      "filename": "WhatsApp Image 2026-05-18 at 12.13.16 AM (2).jpeg",
+      "catalog_ref": "Img 54",
+      "reference_image_ids": [
+        "Img 54"
+      ],
+      "other_item_ids": [],
+      "marked_at": "2026-05-18T18:57:55.999Z",
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "exported_at": "2026-05-18T19:14:35.240Z",
+  "source": {
+    "schema_version": 1,
+    "storage_key": "wardrobe-review-actions.v1",
+    "wardrobe_root": "/Users/varunj/Workspace/Wardrobe",
+    "page_generated_at": "2026-05-19 00:35:58",
+    "catalog_csv_mtime": "2026-05-19 00:26:45",
+    "reference_map_mtime": "2026-05-19 00:26:45",
+    "catalog_items": 44,
+    "reference_rows": 122
+  },
+  "invalid_items": [
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-06",
+      "filenames": [
+        "WhatsApp Image 2026-05-17 at 8.44.50 PM (1).jpeg"
+      ],
+      "catalog_refs": [
+        "Img 7"
+      ],
+      "marked_at": "2026-05-18T19:13:25.407Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-10",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.16.21 AM.jpeg"
+      ],
+      "catalog_refs": [
+        "Img 35"
+      ],
+      "marked_at": "2026-05-18T19:14:04.470Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-18",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.13.18 AM (1).jpeg"
+      ],
+      "catalog_refs": [
+        "Img 55"
+      ],
+      "marked_at": "2026-05-18T19:08:49.022Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-19",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.13.22 AM (1).jpeg"
+      ],
+      "catalog_refs": [
+        "Img 63"
+      ],
+      "marked_at": "2026-05-18T19:11:04.957Z",
+      "note": ""
+    },
+    {
+      "type": "invalidate_item",
+      "item_id": "TOP-23",
+      "filenames": [
+        "WhatsApp Image 2026-05-18 at 12.16.26 AM (2).jpeg"
+      ],
+      "catalog_refs": [
+        "Img 92"
+      ],
+      "marked_at": "2026-05-18T19:12:46.920Z",
+      "note": ""
+    }
+  ],
+  "detached_images": [
+    {
+      "type": "detach_image",
+      "item_id": "BOT-11",
+      "filename": "WhatsApp Image 2026-05-18 at 12.13.16 AM (2).jpeg",
+      "catalog_ref": "Img 54",
+      "reference_image_ids": [
+        "Img 54"
+      ],
+      "other_item_ids": [],
+      "marked_at": "2026-05-18T18:57:55.999Z",
+      "note": ""
+    }
+  ]
+}
