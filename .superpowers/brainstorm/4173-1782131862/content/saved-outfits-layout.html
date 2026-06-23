@@ -1,0 +1,77 @@
+<h2>Saved Outfits Page Direction</h2>
+<p class="subtitle">The request points strongly toward option A: saved outfits should look like the exact recommendation cards from chat, just collected on their own route.</p>
+
+<div class="split">
+  <div class="mockup card" data-choice="a" onclick="toggleSelect(this)">
+    <div class="mockup-header">Option A: /saved page with chat-style outfit cards</div>
+    <div class="mockup-body">
+      <div style="display:grid;grid-template-columns:220px 1fr;min-height:420px;background:#f5f3ee;border-radius:8px;overflow:hidden;border:1px solid #ded8cf">
+        <div style="background:#e9e4dc;padding:16px;border-right:1px solid #dad5cc">
+          <div style="font-weight:700;margin-bottom:18px">Wardrobe Stylist</div>
+          <div style="display:grid;gap:8px">
+            <div style="padding:9px;border:1px solid #cfc8bd;border-radius:8px;background:#fffdfa">Chat</div>
+            <div style="padding:9px;border:1px solid #cfc8bd;border-radius:8px;background:#fffdfa">Catalog</div>
+            <div style="padding:9px;border-radius:8px;background:#22312d;color:white">Saved</div>
+          </div>
+        </div>
+        <div style="display:grid;grid-template-rows:auto 1fr">
+          <div style="padding:16px;background:#fffdfa;border-bottom:1px solid #ded8cf">
+            <div style="font-size:11px;color:#61766f;font-weight:700;text-transform:uppercase">Saved outfits</div>
+            <div style="font-size:20px;font-weight:700">Review saved outfit cards.</div>
+          </div>
+          <div style="padding:18px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;align-content:start">
+            <div style="background:#fffdfa;border:1px solid #ded8cf;border-radius:8px;padding:14px;display:grid;gap:10px">
+              <div style="display:flex;justify-content:space-between;gap:10px">
+                <div>
+                  <div style="font-weight:700">Sharp Office Ease</div>
+                  <div style="margin-top:7px"><span style="border:1px solid #cfc8bd;border-radius:999px;padding:3px 8px;font-size:12px">all-day</span> <span style="border:1px solid #cfc8bd;border-radius:999px;padding:3px 8px;font-size:12px">office</span></div>
+                </div>
+                <button style="width:40px;height:40px;border:1px solid #dfb1a8;border-radius:8px;background:#fff4f2;color:#8b2418">del</button>
+              </div>
+              <div style="font-size:13px;line-height:1.45;color:#3a3834">Same notes, why, wear guidance, and item citations as chat.</div>
+              <div style="border-top:1px solid #eee8df;padding-top:10px;display:grid;grid-template-columns:54px 1fr;gap:10px">
+                <div style="aspect-ratio:1;background:#d8d0c4;border-radius:6px"></div>
+                <div style="font-size:12px"><b>TOP-01</b><br>navy knit tee</div>
+              </div>
+              <div style="border-top:1px solid #eee8df;padding-top:10px;display:grid;grid-template-columns:54px 1fr;gap:10px;opacity:.62">
+                <div style="aspect-ratio:1;background:#d8d0c4;border-radius:6px"></div>
+                <div style="font-size:12px"><b>BOT-01</b> <span style="color:#8b2418">Removed</span><br>still shown in saved history</div>
+              </div>
+            </div>
+            <div style="background:#fffdfa;border:1px solid #ded8cf;border-radius:8px;padding:14px;display:grid;gap:10px">
+              <div style="display:flex;justify-content:space-between;gap:10px">
+                <div>
+                  <div style="font-weight:700">Date Night Texture</div>
+                  <div style="margin-top:7px"><span style="border:1px solid #cfc8bd;border-radius:999px;padding:3px 8px;font-size:12px">evening</span> <span style="border:1px solid #cfc8bd;border-radius:999px;padding:3px 8px;font-size:12px">restaurant</span></div>
+                </div>
+                <button style="width:40px;height:40px;border:1px solid #dfb1a8;border-radius:8px;background:#fff4f2;color:#8b2418">del</button>
+              </div>
+              <div style="font-size:13px;line-height:1.45;color:#3a3834">Reusable card component keeps chat and saved views identical.</div>
+              <div style="height:90px;background:#f1ece4;border-radius:6px"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mockup card" data-choice="b" onclick="toggleSelect(this)">
+    <div class="mockup-header">Option B: keep side drawer summary</div>
+    <div class="mockup-body">
+      <div style="min-height:420px;background:#f5f3ee;border-radius:8px;position:relative;overflow:hidden;border:1px solid #ded8cf">
+        <div style="padding:18px">
+          <div style="font-size:20px;font-weight:700">Chat remains primary</div>
+          <div style="margin-top:16px;background:white;border:1px solid #ded8cf;border-radius:8px;padding:14px;height:240px">Recommendation cards in chat</div>
+        </div>
+        <div style="position:absolute;right:0;top:0;bottom:0;width:260px;background:#fffdfa;box-shadow:-10px 0 22px rgba(32,32,29,.18);padding:16px">
+          <div style="font-weight:700;margin-bottom:16px">Saved outfits</div>
+          <div style="border:1px solid #ded8cf;border-radius:8px;padding:12px;font-size:13px">
+            <b>Sharp Office Ease</b>
+            <p style="color:#4e4a43">Only summary text and item IDs fit here.</p>
+          </div>
+        </div>
+      </div>
+      <p>This is the current direction and does not meet “exactly as the card in the chat.”</p>
+    </div>
+  </div>
+</div>

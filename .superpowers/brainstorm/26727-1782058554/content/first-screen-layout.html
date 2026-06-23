@@ -1,0 +1,61 @@
+<h2>Which first-screen layout feels right?</h2>
+<p class="subtitle">The first version is chat-first, with generated outfit cards, image citations, and a save flow.</p>
+
+<div class="cards">
+  <div class="card" data-choice="a" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div class="mockup">
+        <div class="mockup-header">A: Chat + Results Feed</div>
+        <div class="mockup-body">
+          <div class="placeholder" style="height:42px">Ask: "date night in Indiranagar, evening"</div>
+          <div style="display:grid;grid-template-columns:1fr;gap:10px;margin-top:12px">
+            <div class="placeholder" style="height:90px">Outfit 1 card: TOP-07 + BOT-10 + SHOE-02</div>
+            <div class="placeholder" style="height:90px">Outfit 2 card: TOP-13 + BOT-05 + SHOE-01</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>Single Stream</h3>
+      <p>Feels like a personal stylist chat. Saved outfits live behind a tab or drawer.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="b" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div class="mockup">
+        <div class="mockup-header">B: Chat + Side Library</div>
+        <div class="mockup-body" style="display:grid;grid-template-columns:2fr 1fr;gap:10px">
+          <div>
+            <div class="placeholder" style="height:42px">Ask for outfits</div>
+            <div class="placeholder" style="height:112px;margin-top:12px">Outfit cards with citations</div>
+          </div>
+          <div class="placeholder" style="height:170px">Saved outfits by time + occasion</div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>Persistent Saved Library</h3>
+      <p>Keeps saved looks visible while chatting. More dashboard-like, slightly busier.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="c" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div class="mockup">
+        <div class="mockup-header">C: Chat + Context Rail</div>
+        <div class="mockup-body" style="display:grid;grid-template-columns:1fr 2fr;gap:10px">
+          <div class="placeholder" style="height:170px">Occasion, time, weather, avoid/pin items</div>
+          <div>
+            <div class="placeholder" style="height:42px">Ask for outfits</div>
+            <div class="placeholder" style="height:112px;margin-top:12px">Recommendations</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>Context Controls First</h3>
+      <p>Great when requests are structured. Less pure-chat, but gives better inputs up front.</p>
+    </div>
+  </div>
+</div>

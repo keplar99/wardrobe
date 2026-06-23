@@ -1,1 +1,8 @@
-
+.env
+.env.local
+__pycache__/
+*.py[cod]
+app/data/*.sqlite
+app/data/*.sqlite-*
+app/frontend/node_modules/
+app/frontend/dist/
